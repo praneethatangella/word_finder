@@ -2,15 +2,15 @@
 
 
 ## Code Dependencies
+
+```
 MacOS/Linux
-
 Python 3.9.12
-
 pytest 7.1.1
-
 coverage 6.4.4
+```
 
-Tested on Windows. Few tests skipped in Windows.
+Note: Tested on Windows. Few tests skipped in Windows.
 
 ## Code Organization
 
