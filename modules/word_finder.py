@@ -62,7 +62,7 @@ def word_finder(file_path: str) -> str:
     '''
 
     :param file_path: Input File Path
-    :return:
+    :return: longest_word, transposed_word
     '''
     longest_word = ''
     file_checker(file_path)
