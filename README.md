@@ -45,6 +45,7 @@ Tested on Windows. Few tests skipped in Windows.
 
 >> coverage run -m pytest . --verbose && coverage report -m
 
+```
 Name                          Stmts   Miss  Cover   Missing
 -----------------------------------------------------------
 modules/word_finder.py           31      1    97%   77
@@ -52,3 +53,4 @@ testing/test_word_finder.py      50      0   100%
 -----------------------------------------------------------
 TOTAL                            81      1    99%
 
+```
